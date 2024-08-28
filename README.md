@@ -7,3 +7,17 @@ Welcome to **ShareSphere** – a modern, efficient, and secure file-sharing appl
 3. 🎯 User-Friendly Interface: Intuitive design that makes it easy for everyone to send, receive, and manage files.
 4. 📁 Multi-File Support: Effortlessly share documents, images, videos, and other file types.
 
+
+## Frontend -
+### Homepage
+![Frontend Page](assets/5.png)
+
+### Receiving Email -
+![Received Email](assets/6.png)
+
+### Backend -
+1. Download Page ScreenShot
+   ![Download Page](assets/4.png)
+
+2. Email sent Success Message
+   ![Email Success](assets/1.png)
