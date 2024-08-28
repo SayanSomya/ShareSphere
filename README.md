@@ -10,14 +10,14 @@ Welcome to **ShareSphere** – a modern, efficient, and secure file-sharing appl
 
 ## Frontend -
 ### Homepage
-![Frontend Page](assets/5.png)
+![Frontend Page](Assets/5.png)
 
 ### Receiving Email -
-![Received Email](assets/6.png)
+![Received Email](Assets/6.png)
 
 ### Backend -
 1. Download Page ScreenShot
-   ![Download Page](assets/4.png)
+   ![Download Page](Assets/4.png)
 
 2. Email sent Success Message
-   ![Email Success](assets/1.png)
+   ![Email Success](Assets/1.png)
